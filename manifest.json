@@ -10,7 +10,7 @@
         {
             "name": "Somic Formatchange",
             "port": 3000,
-            "supportsReverseProxy": true
+            "supportsReverseProxy": false
         }
     ],
     "ports": [
